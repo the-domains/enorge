@@ -1,0 +1,28 @@
+name: eNorge
+favicon: null
+layout_spectrum: 0.10113542689941823
+typography_spectrum: 0.29817568860016763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5251136221922934
+  lightness: 0.24837688566185534
+  saturation: 0.5622625073883682
+  rhythmicContrast: 0.17056523682549596
+purpose: []
