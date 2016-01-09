@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[eNorge]]></title>
-        <description><![CDATA[eNorge]]></description>
+        <title><![CDATA[Spill eRepublik]]></title>
+        <description><![CDATA[Spill eRepublik]]></description>
         <link>https://thegrid.ai/enorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 10:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 10:23:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/enorge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed042815-1bf2-414a-907e-a4216c616bc7.png">]]></description>
             <link>https://thegrid.ai/enorge/1daa1466-600d-4036-8937-6871041542d8/index.html</link>
             <guid isPermaLink="false">1daa1466-600d-4036-8937-6871041542d8</guid>
-            <pubDate>Sat, 09 Jan 2016 10:18:38 GMT</pubDate>
+            <pubDate>Sat, 09 Jan 2016 10:23:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
